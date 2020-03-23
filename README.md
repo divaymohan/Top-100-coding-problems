@@ -1,13 +1,10 @@
-# Learning-Sources For Computer Science
-## DataCompression
+# TOP-100-CODING-PROBLEMS
+## Strings  :-
+## Arrays:- 
+1. [4Sum II]()
 
+## Dynamic Programming:-
+## Trees:-
+## Graphs:- 
 
-
-## Chapter  :-  
-### Arithmetic coding.
-#### 1. [Arithmetic coding 1](https://youtu.be/-R2a2a1-2MM "Arithmetic Coding 1 (example)")
-#### 2. [Arithmetic coding 2](https://youtu.be/-R2a2a1-2MM "Arithmetic Coding 2 (example with proper formulations)")
-
-## Python
-### 1. [Lambda Function with Applications](https://youtu.be/25ovCm9jKfA "Best Explaination Of lanbda functions with applications") 
 
