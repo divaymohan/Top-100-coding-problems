@@ -2,14 +2,15 @@
 
 ## Strings  :-
 ## Arrays:- 
-1. [4Sum II](SUM4_2/sum4_2.md)
-2. [Subarray with given sum](SubarrayGivenSum)
+1. [4Sum II](SUM4_2/sum4_2.md "Tag:: Array")
+2. [Subarray with given sum](SubarrayGivenSum "Tag:: Array")
 ## Dynamic Programming:-
 ## Trees:-
 ## Graphs:- 
 ## Hashing:-
-1. [Relative Ordering](RelativeOrdering/RelativeOrdering.md)
-
+1. [Relative Ordering](RelativeOrdering/RelativeOrdering.md "Tags:: Arrays,Hashing")
+2. [Anagram]( Anagram/anagram.md "Tags:: String,Hashing" )
+ 
 
 
 
