@@ -3,7 +3,8 @@
 ## Strings  :-
 ## Arrays:- 
 1. [4Sum II](SUM4_2/sum4_2.md "Tag:: Array")
-2. [Subarray with given sum](SubarrayGivenSum "Tag:: Array")
+2. [Subarray with given sum](SubarrayGivenSum/subArrayGivenSum.md "Tag:: Array")
+3. [Single Number](singleNumber/singleNumber.md "Tags:: Array,Hash")
 ## Dynamic Programming:-
 ## Trees:-
 ## Graphs:- 
